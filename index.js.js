@@ -1,5 +1,3 @@
-/*! This file is auto-generated */
-// Source: wp-includes/js/twemoji.min.js
 var twemoji = function() {
     "use strict";
     var h = {
